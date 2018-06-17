@@ -297,10 +297,6 @@ a:visited { color: #205caa; }
   color: #999;
 }
 
-#disqus_thread {
-  padding: 20px 0px;
-}
-
 /* Site footer */
 
 .site-footer {
@@ -311,7 +307,7 @@ a:visited { color: #205caa; }
   bottom: 0px;
   left: 0px;
   right: 0px;
-  background-color: #0a68ff;
+  background-color: #c7d1e5;
 }
 
 .footer-heading {
