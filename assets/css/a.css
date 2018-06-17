@@ -1,9 +1,9 @@
 .slick-slide {
-    margin: 0px 500px;
+    margin: 0px 10px;
 }
 
 .slick-slide img {
-    width: 100%;
+    width: 75%;
 }
 
 .slick-slider
