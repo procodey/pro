@@ -1,0 +1,19 @@
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+gems:
+  - jekyll-sitemap
+permalink: blogs/:title/
+title: Ronnie T Baby
+email: ronnietbaby@karunya.edu.in
+description: Personal site of Ronnie T Baby, student at Karunya University.Budding Security Researcher acknowledged by world-wide companies
+keywords: ronnie, hacking, cyber security, ethical hacker, karunya university, google hall of fame, kerala, computer science engineer, developer, geek, programmer, techie, technologist
+baseurl: ""
+url: http://ronnietbaby.com
+name: Ronnie T Baby
+author:
+  name: Ronnie T Baby
+  email: ronnietbaby@karunya.edu.in
